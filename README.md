@@ -18,20 +18,20 @@ This is a basic calculator application built using Python's Tkinter library. It 
 
 🛠️ Installation
 
-Make sure you have Python installed (preferably 3.6 or later).
-Clone this repository:
-git clone https://github.com/nirbhay0712/Tkinter_Calculator.git
-cd calculator_tkinter
-Run the calculator:
-python main.py
-No additional dependencies required – this project uses only standard Python libraries.
+Make sure you have Python installed (preferably 3.6 or later).  
+Clone this repository:  
+git clone https://github.com/nirbhay0712/Tkinter_Calculator.git  
+cd calculator_tkinter  
+Run the calculator:  
+python main.py  
+No additional dependencies required – this project uses only standard Python libraries.  
 
-📁 File Structure
+📁 File Structure  
 
-calculator_tkinter/
-├── main.py    # Main Python file with the GUI code
-└── README.md        # Project documentation
-💡 How It Works
+calculator_tkinter/  
+├── main.py    # Main Python file with the GUI code  
+└── README.md        # Project documentation  
+💡 How It Works  
 
 The calculator uses Python’s built-in tkinter module to render buttons and handle GUI interactions. Each operation (like +, -, 1/x, etc.) is handled by its own function, and the input is managed through a single Entry widget.
 
